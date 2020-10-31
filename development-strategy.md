@@ -23,44 +23,59 @@ A User can see my initial repository and live demo
 
 **Repo**
 
-°Generate from Template
+•Generate from Template
 
-°Write initial, basic README
+•Write initial, basic README
 
-°Turn on GitHub Pages
+•Turn on GitHub Pages
 
-1. __
+**1. Step 1**
+
+3 pages website creted, have the basic layout
 
 full user story description
+
+Code with basic features- header, nav, suscription, footer; common among the 3 pages
 
 **Repo**
 
 what branch(es) did you work on?
 
+Index, About, Services
+
 **HTML**
+
+Add header, nav, subsription and footer for each page
 
 what did you change in the HTML and why?
 
 **CSS**
 
+Style the html contents
+
 what did you change in the CSS and why?
 
-2. ...
-...
+**2. 
+
+Add the sidebar, article
+
+Making the webpage responsive
+
+Styling the html contents, responsive web design
 
 ...
 
 **Finishing Touches**
 
-°Write final, complete README:
+•Write final, complete README:
 
-° makeareadme.com
+• makeareadme.com
 
-° bulldogjob
+• bulldogjob
 
-° meakaakka
+• meakaakka
 
-°Validate code to check for any last mistakes
+•Validate code to check for any last mistakes
 
 
 
