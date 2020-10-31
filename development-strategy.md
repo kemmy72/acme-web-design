@@ -57,6 +57,8 @@ what did you change in the CSS and why?
 
 **2.**
 
+Styling, form with input and button
+
 Add the sidebar, article
 
 Making the webpage responsive
