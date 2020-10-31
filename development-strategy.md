@@ -55,7 +55,7 @@ Style the html contents
 
 what did you change in the CSS and why?
 
-**2. 
+**2.**
 
 Add the sidebar, article
 
